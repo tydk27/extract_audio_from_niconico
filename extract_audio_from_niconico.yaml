@@ -1,0 +1,9 @@
+# vim:set ts=2 sw=2 expandtab:
+auth:
+  mail: hoge@ghoge.com
+  password: piyopiyo
+api:
+  auth: https://secure.nicovideo.jp/secure/login?site=niconico
+  thumbinfo: http://ext.nicovideo.jp/api/getthumbinfo/
+  watch: http://www.nicovideo.jp/watch/
+  getflv: http://flapi.nicovideo.jp/api/getflv/
